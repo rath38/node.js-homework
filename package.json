@@ -1,0 +1,21 @@
+{
+  "name": "liri",
+  "version": "0.0.1",
+  "description": "The applications description is missing because im to lazy to write.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "Spotify",
+    "OMDB"
+  ],
+  "author": "Alexander Robinson",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
