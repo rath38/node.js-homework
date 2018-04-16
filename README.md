@@ -1,6 +1,6 @@
 # node.js-homework
 
-For this homework I made liri or language interpretation and recongnition interface. Its a command line base program that runs commands given to it in a terminal.It was made from javascript and node.js.
+For this homework I made liri or language interpretation and recongnition interface. It's a command line based program that runs commands given to it in a terminal. It was made in javascript and node.js.
 
 ## Prerequisites
 
@@ -71,7 +71,7 @@ How to deploy on local machine.
 
 How to use.
 
-To use liri you must use commands to tell it what to do.Some commands need to be followed by the argument that goes after the command to tell it what to search for.Below will show the commands needed to operate liri both with pictures and text. 
+To use liri you must use commands to tell it what to do. Some commands need to be followed by the argument that goes after the command to tell it what to search for. Below will show the commands needed to operate liri both with pictures and text. 
 
 * Movie This Command
 
